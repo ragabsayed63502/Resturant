@@ -1,0 +1,15 @@
+C:\Users\Taha\Downloads\Resturant\Resturant\bin\Debug\net6.0\Resturant.exe
+C:\Users\Taha\Downloads\Resturant\Resturant\bin\Debug\net6.0\Resturant.deps.json
+C:\Users\Taha\Downloads\Resturant\Resturant\bin\Debug\net6.0\Resturant.runtimeconfig.json
+C:\Users\Taha\Downloads\Resturant\Resturant\bin\Debug\net6.0\Resturant.dll
+C:\Users\Taha\Downloads\Resturant\Resturant\bin\Debug\net6.0\Resturant.pdb
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.AssemblyReference.cache
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfoInputs.cache
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.AssemblyInfo.cs
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.csproj.CoreCompileInputs.cache
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.dll
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\refint\Resturant.dll
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.pdb
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\Resturant.genruntimeconfig.cache
+C:\Users\Taha\Downloads\Resturant\Resturant\obj\Debug\net6.0\ref\Resturant.dll
